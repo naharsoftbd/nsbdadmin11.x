@@ -12,7 +12,7 @@ NSAdmin template is accessible, powerful, and provides tools required for large,
 
 ## Installation Process
 
- git clone https://github.com/naharsoftbd/nsadmin.git
+ git clone https://github.com/naharsoftbd/nsbdadmin11.x.git
 
  cd nsadmin
 

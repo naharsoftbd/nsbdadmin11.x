@@ -14,7 +14,7 @@ NSAdmin template is accessible, powerful, and provides tools required for large,
 
  git clone https://github.com/naharsoftbd/nsbdadmin11.x.git
 
- cd nsadmin
+ cd nsbdadmin11.x
 
  composer install
 
